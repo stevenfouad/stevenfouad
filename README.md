@@ -2,6 +2,6 @@
 <h3 align="center">Full-stack developer from California!</h3>
 
 - 🔭 I’m currently developing a Voice Assistant
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Assembly**
 
 <p align="left"></p>
